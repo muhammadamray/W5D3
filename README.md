@@ -7,7 +7,7 @@ questions. To do this, you will set up the database and then overlay Ruby code
 to map the data from the database into Ruby objects in memory that you can work
 with. Your database queries (written in SQL) will live within your Ruby code.
 
-## Learning Goals
+## Learning goals
 
 By the end of this practice, you should be able to
 
